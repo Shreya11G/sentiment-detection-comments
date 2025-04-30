@@ -53,7 +53,7 @@ This project detects sentiment (positive, negative, neutral) from text comments 
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/sentiment-detection-comments.git
+git clone https://github.com/shreya11/sentiment-detection-comments.git
 cd sentiment-detection-comments
 ```
 
