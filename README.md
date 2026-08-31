@@ -1,5 +1,5 @@
-```markdown
 # Sentiment Detection from Comments
+```markdown
 
 This project detects sentiment (positive, negative, neutral) from text comments using machine learning models. It includes preprocessing, model training, noisy data handling, evaluation, and deployment through a Flask web application.
 ```
